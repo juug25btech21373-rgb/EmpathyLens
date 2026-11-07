@@ -2,6 +2,8 @@
 
 ## 1. Project Overview
 
+[EmpathyLens_Prototype .pdf](https://github.com/user-attachments/files/34524591/EmpathyLens_Prototype.pdf)
+
 **EmpathyLens** is a web-based accessibility awareness prototype designed to help developers understand the challenges faced by blind and visually impaired users when interacting with websites using screen readers.
 
 A website may look visually appealing and easy to navigate, but that does not necessarily mean it is accessible to everyone. Elements such as buttons without meaningful names, form fields without labels, and images without alternative text can make navigation difficult for people who rely on assistive technologies.
