@@ -260,12 +260,3 @@ EmpathyLens demonstrates the importance of designing websites with accessibility
 Through a guided experience, sample HTML interfaces, scripted screen-reader-style demonstrations, example findings, and before-and-after comparisons, it helps developers understand accessibility challenges from a different perspective.
 
 Although the current version is a frontend awareness prototype rather than a fully automated accessibility checker, it establishes a foundation for further development into a more comprehensive accessibility-focused platform.
-
-**The goal is simple: Build websites that everyone can use, not just websites that everyone can see.**
-
----
-
-**Project:** EmpathyLens  
-**Category:** Web Development | Web Accessibility | Inclusive Design  
-**Implementation:** Frontend Prototype  
-**Technologies:** HTML5, CSS3, JavaScript
